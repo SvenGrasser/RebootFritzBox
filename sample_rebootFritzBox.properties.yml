@@ -1,2 +1,6 @@
-authentification:
-    password: XXXXX
+authentication:
+    password: XXXX
+options:
+    reboot: '03:30'
+    isRunning: True
+    executeReboot: True
